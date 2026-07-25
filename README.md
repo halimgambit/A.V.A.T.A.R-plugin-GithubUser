@@ -26,7 +26,7 @@ The GithubUser plugin relies solely on the system's available languages.
     <td style="border: none;"><img src="GithubUser/assets/images/GithubUser.png" alt="GithubUser Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">GithubUser</h1>
-      <h3 style="margin: 0;">Get notification of Contributors</h3>
+      <h3 style="margin: 0;">Get Plugins Contributors</h3>
     </td>
   </tr>
 </table>
