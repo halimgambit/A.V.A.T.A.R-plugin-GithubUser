@@ -1,5 +1,5 @@
 # GithubUser
-Permet à A.V.A.T.A.R. de suivre les plugins des contributeurs , consulter leurs plugins A.V.A.T.A.R. et notifier automatiquement les mises à jour disponibles.
+Permet à A.V.A.T.A.R. de suivre les plugins des contributeurs , consulter leurs dernier plugins A.V.A.T.A.R. et notifier automatiquement les mises à jour disponibles.
 
 - This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework. 
 
