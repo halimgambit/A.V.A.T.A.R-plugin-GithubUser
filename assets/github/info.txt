@@ -1,9 +1,0 @@
-GithubUser
-Plugin permettant à A.V.A.T.A.R. d'interroger GitHub pour récupérer les dépôts publics d'utilisateurs configurés. Il peut annoncer les derniers plugins A.V.A.T.A.R. publiés par un développeur et effectuer une vérification automatique des mises à jour via un système de cache local. Lorsqu'une nouvelle version d'un plugin est détectée, A.V.A.T.A.R. informe l'utilisateur vocalement.
-
-Fonctionnalités :
-Consultation des plugins A.V.A.T.A.R. d'un utilisateur GitHub.
-Détection automatique des nouveaux commits/mises à jour de plugins.
-Notification vocale des mises à jour disponibles.
-Gestion multi-utilisateurs GitHub via la configuration.
-Support multilingue avec les fichiers .pak.
